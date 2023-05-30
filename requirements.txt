@@ -1,0 +1,2 @@
+astral==3.2
+pylunar==0.6.0

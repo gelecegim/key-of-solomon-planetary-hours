@@ -1,0 +1,14 @@
+{
+    "Location": {
+        "City": "Berlin",
+        "Region": "Germany",
+        "Timezone": "Europe/Berlin",
+        "latitude": 52.52,
+        "longitude": 13.404
+    },
+    "Date": {
+        "Day": 0,
+        "Month": 0,
+        "Year": 0
+    }
+}

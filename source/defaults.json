@@ -1,0 +1,49 @@
+{
+    "ChaldeanWeek": {
+        "0": ["Gabriel", "Gabriel", "Moon", "Silver", "White"],
+        "1": ["Khaniael", "Zamael", "Mars", "Iron", "Red"],
+        "2": ["Michael", "Raphael", "Mercury", "Mercury", "Purple or mixed colors"],
+        "3": ["Tzadiqel", "Sachiel", "Jupiter", "Tin", "Blue"],
+        "4": ["Haniel", "Anael", "Venus", "Copper", "Green"],
+        "5": ["Tzaphqiel", "Cassiel", "Saturn", "Lead", "Black"],
+        "6": ["Raphael", "Michael", "Sun", "Gold", "Yellow"]
+    },
+    "ChaldeanDay": {
+        "0": ["Moon", "Saturn", "Jupiter", "Mars", "Sun", "Venus", "Mercury"],
+        "1": ["Mars", "Sun", "Venus", "Mercury", "Moon", "Saturn", "Jupiter"],
+        "2": ["Mercury", "Moon", "Saturn", "Jupiter", "Mars", "Sun", "Venus"],
+        "3": ["Jupiter", "Mars", "Sun", "Venus", "Mercury", "Moon", "Saturn"],
+        "4": ["Venus", "Mercury", "Moon", "Saturn", "Jupiter", "Mars", "Sun"],
+        "5": ["Saturn", "Jupiter", "Mars", "Sun", "Venus", "Mercury", "Moon"],
+        "6": ["Sun", "Venus", "Mercury", "Moon", "Saturn", "Jupiter", "Mars"]
+    },
+    "AngelDay": {
+        "0": ["Sachiel", "Zamael", "Michael", "Anael", "Raphael", "Gabriel", "Cassiel"],
+        "1": ["Anael", "Raphael", "Gabriel", "Cassiel", "Sachiel", "Zamael", "Michael"],
+        "2": ["Cassiel", "Sachiel", "Zamael", "Michael", "Anael", "Raphael", "Gabriel"],
+        "3": ["Michael", "Anael", "Raphael", "Gabriel", "Cassiel", "Sachiel", "Zasnael"],
+        "4": ["Gabriel", "Cassiel", "Sachiel", "Zamael", "Michael", "Anael", "Raphael"],
+        "5": ["Zamael", "Michael", "Anael", "Raphael", "Gabriel", "Cassiel", "Sachiel"],
+        "6": ["Raphael", "Gabriel", "Cassiel", "Sachiel", "Zamael", "Michael", "Anael"]
+    },
+    "MagicalDayNames" : ["Yayn", "Yanor", "Nasnia", "Salla", "Saddedali", "Thamur", "Ourer", "Thainee", "Neron", "Yayon", "Abai", "Nathalon", ""],
+    "ChaldeanNight": {
+        "0" : ["Venus", "Mercury", "Moon", "Saturn", "Jupiter", "Mars", "Sun"],
+        "1": ["Saturn", "Jupiter", "Mars", "Sun", "Venus", "Mercury", "Moon"],
+        "2": ["Sun", "Venus", "Mercury", "Moon", "Saturn", "Jupiter", "Mars"],
+        "3": ["Moon", "Saturn", "Jupiter", "Mars", "Sun", "Venus", "Mercury"],
+        "4": ["Mars", "Sun", "Venus", "Mercury", "Moon", "Saturn", "Jupiter"],
+        "5": ["Mercury", "Moon", "Saturn", "Jupiter", "Mars", "Sun", "Venus"],
+        "6": ["Jupiter", "Mars", "Sun", "Venus", "Mercury", "Moon", "Saturn"]
+    },
+    "AngelNight": {
+        "0": ["Gabriel", "Cassiel", "Sachiel", "Zamael", "Michael", "Anael", "Raphael"],
+        "1": ["Zamael", "Michael", "Anael", "Raphael", "Gabriel", "Cassiel", "Sachael"],
+        "2": ["Raphael", "Gabriel", "Cassiel", "Sachiel", "Zamael", "Michael", "Anael"],
+        "3": ["Sachiel", "Zamael", "Michael", "Anael", "Raphael", "Gabriel", "Cassiel"],
+        "4": ["Anael", "Raphael", "Gabriel", "Cassiel", "Sachiel", "Zamael", "Michael"],
+        "5": ["Cassiel", "Sachiel", "Zamael", "Michael", "Anael", "Raphael", "Gabriel"],
+        "6": ["Michael", "Anael", "Raphael", "Gabriel", "Cassiel", "Sachiel", "Zamael"]
+    }, 
+    "MagicalNightNames": ["Beron", "Barol", "Thanu", "Athor", "Mathon", "Rana", "Netos", "Tafrac", "Sassur", "Agla", "Caerra", "Salam", ""]
+}
